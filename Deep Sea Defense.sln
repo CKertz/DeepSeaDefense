@@ -1,8 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4AF2ACAA-2323-31B6-02DA-519577773C00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Sea Defense", "Assembly-CSharp.csproj", "{4AF2ACAA-2323-31B6-02DA-519577773C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{C89AA0A5-7A0B-CF81-8925-C64DCFAE3661}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deep Sea Defense", "Assembly-CSharp-Editor-firstpass.csproj", "{C89AA0A5-7A0B-CF81-8925-C64DCFAE3661}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
