@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-
+/*
 public class Tile
 {
     private Action<Tile> tileTypeChangedCallBack;
@@ -61,3 +61,4 @@ public class Tile
         tileTypeChangedCallBack -= callback;
     }
 }
+*/

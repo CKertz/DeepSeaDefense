@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RoomController : MonoBehaviour
+/*
 {
 	public Sprite floorSprite;
 	private World world;
@@ -60,3 +60,4 @@ public class RoomController : MonoBehaviour
 		}
 	}
 }
+*/
